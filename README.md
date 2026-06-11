@@ -5,9 +5,5 @@
     <a href="https://binportfolio.site/">Portfolio</a>
   </strong>
   <span>&nbsp;|&nbsp;</span>
-  <code>React</code>
-  <span>&nbsp;·&nbsp;</span>
-  <code>TypeScript</code>
-  <span>&nbsp;·&nbsp;</span>
-  <code>Next.js</code>
+  <span>3 featured projects</span>
 </p>
